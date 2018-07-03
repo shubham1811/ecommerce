@@ -1,0 +1,41 @@
+.bg-black
+{
+  background-color:  #333333;
+}
+.carousel-caption
+{
+  top:200px;
+}
+.bg-orange
+{
+  background-color: #f0644f;
+  font-weight: 600;
+  color: aliceblue;
+  text-align: center;
+
+}
+.m-right
+{
+  border: 2px solid #f0644f;
+  border-right:2px solid white;
+}
+.bg-light-gray
+{
+  background-color: rgba(111,111,111,0.09);
+}
+.underline
+{
+  width:200px;
+  height:2px;
+  background-color: orange;
+}
+.underline-green
+{
+  width:200px;
+  height:2px;
+  background-color: green;
+}
+.media img{
+  max-width: 120px;
+  height: auto;
+}
